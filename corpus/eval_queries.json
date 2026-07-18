@@ -1,0 +1,12 @@
+[
+  {"query": "How much annual leave do I accrue per month?", "relevant_doc_ids": ["leave-01"]},
+  {"query": "Do I need a doctor's note for sick leave?", "relevant_doc_ids": ["leave-02"]},
+  {"query": "How long is paid parental leave?", "relevant_doc_ids": ["leave-03"]},
+  {"query": "How fast are travel expenses reimbursed?", "relevant_doc_ids": ["expenses-01"]},
+  {"query": "Is alcohol reimbursable on a business trip?", "relevant_doc_ids": ["expenses-02"]},
+  {"query": "How often do passwords need to rotate?", "relevant_doc_ids": ["security-02"]},
+  {"query": "How many approvals does a production deploy need?", "relevant_doc_ids": ["deploy-01"]},
+  {"query": "When does a page escalate to secondary on-call?", "relevant_doc_ids": ["oncall-02"]},
+  {"query": "How often do performance reviews happen?", "relevant_doc_ids": ["perf-01"]},
+  {"query": "What are the core hours for remote employees?", "relevant_doc_ids": ["remote-01"]}
+]

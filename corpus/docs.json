@@ -1,0 +1,22 @@
+[
+  {"id": "onboarding-01", "text": "New engineers get repo access on day one. IT provisions a laptop before the start date. A buddy is assigned for the first two weeks."},
+  {"id": "onboarding-02", "text": "The onboarding checklist covers VPN setup, Slack channels, and the internal wiki. Managers review it with the new hire during week one."},
+  {"id": "leave-01", "text": "Annual leave accrues at 1.5 days per month. Unused leave carries over up to ten days into the next year."},
+  {"id": "leave-02", "text": "Sick leave requires no advance notice for absences under three days. Longer absences need a manager approval and a doctor's note."},
+  {"id": "leave-03", "text": "Parental leave is twelve weeks paid for the primary caregiver and four weeks paid for the secondary caregiver."},
+  {"id": "expenses-01", "text": "Travel expenses are reimbursed within fourteen business days of submitting a receipt through the expense portal."},
+  {"id": "expenses-02", "text": "Meals during business travel are capped at fifty dollars per day. Alcohol is not reimbursable."},
+  {"id": "expenses-03", "text": "Home office equipment up to three hundred dollars is reimbursed once per calendar year with a manager's sign-off."},
+  {"id": "security-01", "text": "All laptops must have full-disk encryption enabled before connecting to the production VPN."},
+  {"id": "security-02", "text": "Passwords rotate every ninety days. Multi-factor authentication is mandatory for all internal tools."},
+  {"id": "security-03", "text": "Suspected phishing emails should be forwarded to security@company.example and then deleted, never clicked."},
+  {"id": "deploy-01", "text": "Production deploys require two approvals and must pass the full CI suite before merging to main."},
+  {"id": "deploy-02", "text": "Rollbacks are triggered automatically if error rates exceed two percent within five minutes of a deploy."},
+  {"id": "deploy-03", "text": "Database migrations run in a separate step from application deploys and are always backward compatible for one release."},
+  {"id": "oncall-01", "text": "On-call rotations are weekly, starting Monday at nine AM. Engineers are compensated with a flat stipend plus overtime for pages after hours."},
+  {"id": "oncall-02", "text": "A page that is not acknowledged within fifteen minutes automatically escalates to the secondary on-call engineer."},
+  {"id": "perf-01", "text": "Performance reviews happen twice a year, in March and September. Self-assessments are due one week before the review."},
+  {"id": "perf-02", "text": "Promotion packets require two peer reviews and one manager sponsor, submitted at least a month before the calibration meeting."},
+  {"id": "remote-01", "text": "Fully remote employees can work from any timezone within four hours of the team's core hours, which are ten AM to two PM Eastern."},
+  {"id": "remote-02", "text": "Co-working space stipends are available up to two hundred dollars a month for employees without a dedicated home office."}
+]

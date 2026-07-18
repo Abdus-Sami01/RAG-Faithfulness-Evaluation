@@ -1,0 +1,12 @@
+[
+  {"context_doc_ids": ["leave-01"], "claim": "Annual leave accrues at 1.5 days per month.", "expected_supported": true},
+  {"context_doc_ids": ["leave-01"], "claim": "Annual leave accrues at 3 days per month.", "expected_supported": false},
+  {"context_doc_ids": ["leave-01"], "claim": "Unused leave carries over up to ten days into the next year.", "expected_supported": true},
+  {"context_doc_ids": ["leave-01"], "claim": "Unused leave expires immediately at year end.", "expected_supported": false},
+  {"context_doc_ids": ["security-02"], "claim": "Passwords rotate every ninety days.", "expected_supported": true},
+  {"context_doc_ids": ["security-02"], "claim": "Passwords never need to be changed.", "expected_supported": false},
+  {"context_doc_ids": ["deploy-01"], "claim": "Production deploys require two approvals.", "expected_supported": true},
+  {"context_doc_ids": ["deploy-01"], "claim": "Production deploys require five approvals.", "expected_supported": false},
+  {"context_doc_ids": ["expenses-02"], "claim": "Meals during business travel are capped at fifty dollars per day.", "expected_supported": true},
+  {"context_doc_ids": ["expenses-02"], "claim": "Alcohol is fully reimbursable on business trips.", "expected_supported": false}
+]
